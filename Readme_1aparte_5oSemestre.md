@@ -27,4 +27,4 @@ Este projeto foi desenvolvido com **.NET MAUI** e é compatível com **Android**
 ## Contato
 
 - **E-mail:** marcelopazetti90@gmail.com
-- **GitHub:** [https://github.com/seu-usuario](https://github.com/M-Pazetti/5-Semestre-Grupo-19-Parte-1-Senac)
+- **GitHub:** https://github.com/M-Pazetti/5-Semestre-Grupo-19-Parte-1-Senac)
