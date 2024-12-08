@@ -23,11 +23,6 @@ Este projeto foi desenvolvido com **.NET MAUI** e é compatível com **Android**
 - **Emulador Android/iOS** ou um dispositivo físico para testar
 
 
-## Contato
-
-- **E-mail:** marcelopazetti90@gmail.com
-- **GitHub:** https://github.com/M-Pazetti/5-Semestre-Grupo-19-Parte-1-Senac)
-
 - # Escopo do Trabalho
 
 ## Visão do Produto Proposto
@@ -102,3 +97,8 @@ O aplicativo oferece ferramentas para registro detalhado de alimentos consumidos
 ### Dificuldade em atingir metas de saúde
 Ao personalizar objetivos, o aplicativo ajuda os usuários a monitorar progressos diários e a seguir estratégias alimentares baseadas em metas claras, como emagrecimento ou ganho muscular.
 
+
+## Contato
+
+- **E-mail:** marcelopazetti90@gmail.com
+- **GitHub:** https://github.com/M-Pazetti/5-Semestre-Grupo-19-Parte-1-Senac)
