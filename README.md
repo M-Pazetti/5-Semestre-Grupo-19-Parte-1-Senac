@@ -1,4 +1,4 @@
-# SENAC GRUPO 19 Apresenta o Conta Calorias!
+# SENAC GRUPO 19 - Apresenta o Conta Calorias!
 
 O **Conta Calorias** é um aplicativo desenvolvido para ajudar os usuários a monitorarem sua ingestão calórica diária e controlarem sua saúde de maneira simples e eficiente. O app permite que o usuário calcule o Índice de Massa Corporal (IMC), calcule a ingestão calórica necessária com base em seu perfil e acompanhe as calorias consumidas ao longo do dia.
 
