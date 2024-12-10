@@ -1,8 +1,11 @@
 # SENAC GRUPO 19 - Apresenta o Conta Calorias! 🥗📱
 
 Alisson Davis Santana Santos
+
 Diego Oliveira Souza
+
 Guilherme Lima Moreira
+
 Marcelo Pazetti
 
 
